@@ -7,6 +7,7 @@
 5- npm install multer 
 
 /* POUR LE COTE SERVEUR */
+
 1- Créer un fichier .env : 
     * mettre dedans les informations concernant la base de données
     * ajouter aussi : JWT_SECRET=ton_secret_super_securise (pour les token)
